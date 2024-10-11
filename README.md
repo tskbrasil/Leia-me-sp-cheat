@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Botão de Copiar no GitHub Pages</title></head><body><h1>Meu Projeto no GitHub</h1><p>Este script JavaScript é um bookmarklet que permite automatizar a navegação em uma página da web, passando automaticamente de página ao pressionar a tecla de seta para a direita (ArrowRight)
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title></h1><p>Este script JavaScript é um bookmarklet que permite automatizar a navegação em uma página da web, passando automaticamente de página ao pressionar a tecla de seta para a direita (ArrowRight)
 
 Principais funcionalidades
 1. Contagem de páginas O script mantém um contador que registra quantas páginas foram passadas, com um limite máximo de 300
