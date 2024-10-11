@@ -8,7 +8,7 @@
     <title>Botão de Copiar no GitHub Pages</title>
 </head>
 <body>
-    <h1>Meu Projeto no GitHub</h1>
+    <h1>Cheat Leia-me</h1>
     <p>Abaixo está o código que pode ser copiado com um clique no botão:</p>
     
     <!-- Texto que pode ser copiado -->
