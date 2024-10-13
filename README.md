@@ -16,8 +16,10 @@ Este script JavaScript é um bookmarklet que automatiza a navegação em uma pá
 
 Os botões são criados dinamicamente e posicionados na tela, permitindo fácil acesso ao usuário. Mensagens de alerta informam o usuário sobre o status da execução e as ações realizadas.
 
-<pre id="codigo">javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/sgyijuequmwbazrxfdfs.js`).then(r => r.text()).then(r => eval(r))</pre>
-
+  
+```js
+javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/sgyijuequmwbazrxfdfs.js`).then(r => r.text()).then(r => eval(r))
+```  
 <a href="https://youtu.be/YHcdtNHDhHE?si=HPBZf3pjnZjoh-hV" target="_blank">Tutorial</a>
 
 
