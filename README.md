@@ -18,7 +18,7 @@ Os botões são criados dinamicamente e posicionados na tela, permitindo fácil 
 
   
 ```js
-javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/sgyijuequmwbazrxfdfs.js`).then(r => r.text()).then(r => eval(r))
+javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/v1729099666/rq9unzuztgz8unwj4pjp.js`).then(r => r.text()).then(r => eval(r))
 ```  
 <a href="https://youtu.be/YHcdtNHDhHE?si=HPBZf3pjnZjoh-hV" target="_blank">Tutorial</a>
 
